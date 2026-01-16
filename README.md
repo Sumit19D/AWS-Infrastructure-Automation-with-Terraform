@@ -24,9 +24,13 @@ The goal of this project is to showcase hands-on experience with Infrastructure 
 ## 📂 Project Structure
 .
 ├── main.tf
+
 ├── variables.tf
+
 ├── outputs.tf
+
 ├── provider.tf
+
 └── README.md
 
 
