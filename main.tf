@@ -77,7 +77,7 @@ ingress {
   }
 
   tags = {
-    Name = "allow_ssh"
+    Name = "sg"
   }
 }
 
