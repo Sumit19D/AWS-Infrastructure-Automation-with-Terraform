@@ -42,23 +42,21 @@ Before deploying this project, ensure the following tools and configurations are
 
 🔹 1️⃣ Terraform
 
-Terraform is required to provision AWS infrastructure using Infrastructure as Code (IaC).
+* Terraform is required to provision AWS infrastructure using Infrastructure as Code (IaC).
 
-Install Terraform from: https://developer.hashicorp.com/terraform/downloads
+* Install Terraform from: https://developer.hashicorp.com/terraform/downloads
 
-Verify installation:
-
-* terraform --version
+* Verify installation:
+  * terraform --version
 
 🔹 2️⃣ AWS CLI
 
-AWS CLI is required for authentication and interaction with AWS services.
+* AWS CLI is required for authentication and interaction with AWS services.
 
-Install AWS CLI from: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+* Install AWS CLI from: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-Verify installation:
-
-* aws --version
+* Verify installation:
+  * aws --version
 
 ## 🚀 Deployment Steps
 
@@ -90,7 +88,7 @@ Once deployment is complete, Terraform outputs the public IP of the EC2 instance
 
 Access the static website in a browser:
 
-http://(EC2-PUBLIC-IP)
+* http://(EC2-PUBLIC-IP)
 
 ## 🧹 Clean Up Resources
 
