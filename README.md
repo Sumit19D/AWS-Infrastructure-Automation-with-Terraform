@@ -36,4 +36,12 @@ The goal of this project is to showcase hands-on experience with Infrastructure 
 
 * NGINX is installed and configured using Terraform user_data
 
+## Deployment Steps
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+
 
