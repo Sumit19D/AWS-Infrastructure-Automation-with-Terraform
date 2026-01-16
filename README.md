@@ -8,7 +8,6 @@ The goal of this project is to showcase hands-on experience with Infrastructure 
 ## 🛠️ Technologies Used
 
 **Cloud Provider:** AWS
-
 **Infrastructure as Code:** Terraform
 
 **Compute Service:** Amazon EC2
