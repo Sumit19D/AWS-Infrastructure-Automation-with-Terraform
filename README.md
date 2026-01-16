@@ -36,7 +36,7 @@ The goal of this project is to showcase hands-on experience with Infrastructure 
 
 * NGINX is installed and configured using Terraform user_data
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 1️⃣ Clone the Repository
 
@@ -46,15 +46,15 @@ The goal of this project is to showcase hands-on experience with Infrastructure 
 
 2️⃣ Initialize Terraform
 
-terraform init
+* terraform init
 
 3️⃣ Validate the Configuration
 
-terraform validate
+* terraform validate
 
 4️⃣ Apply Terraform Configuration
 
-terraform apply --auto-approve
+* terraform apply --auto-approve
 
 ## 🌐 Access the Application
 
@@ -62,6 +62,6 @@ Once deployment is complete, Terraform outputs the public IP of the EC2 instance
 
 Access the static website in a browser:
 
-http://<EC2-PUBLIC-IP>
+http://(EC2-PUBLIC-IP)
 
 
