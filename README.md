@@ -58,8 +58,9 @@ Before deploying this project, ensure the following tools and configurations are
 * Install Terraform from: https://developer.hashicorp.com/terraform/downloads
 
 * Verify installation:
-  * terraform --version
-
+```
+terraform --version
+```
 
 2️⃣ AWS CLI
 
@@ -68,8 +69,9 @@ Before deploying this project, ensure the following tools and configurations are
 * Install AWS CLI from: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 * Verify installation:
-  * aws --version
-
+```
+aws --version
+```
 
 ## 🚀 Deployment Steps
 
