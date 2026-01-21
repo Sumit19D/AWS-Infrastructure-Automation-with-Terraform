@@ -75,29 +75,29 @@ aws --version
 
 ## 🚀 Deployment Steps
 
-1️⃣ Clone the Repository
+1️⃣ **Clone the Repository**
 
 ```
 git clone https://github.com/Sumit19D/AWS-Infrastructure-Automation-with-Terraform.git
 cd AWS-Infrastructure-Automation-with-Terraform
 ```
 
-2️⃣ Connect to AWS
+2️⃣ **Connect to AWS**
 ```
 aws configure
 ```
 
-3️⃣ Initialize Terraform
+3️⃣ **Initialize Terraform**
 ```
 terraform init
 ```
 
-4️⃣ Validate the Configuration
+4️⃣ **Validate the Configuration**
 ```
 terraform validate
 ```
 
-5️⃣ Apply Terraform Configuration
+5️⃣ **Apply Terraform Configuration**
 ```
 terraform apply --auto-approve
 ```
